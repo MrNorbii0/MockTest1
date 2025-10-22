@@ -1,4 +1,0 @@
-<tickets price="4 PLN" billedMonthly="yes"></tickets>
-<trains isAvailable="yes" providers="PKP, ICC"></trains>
-<buses isAvailable="yes" popularity="very popular"></buses>
-<trams isAvailable="yes" popularity="pupular"></trams>

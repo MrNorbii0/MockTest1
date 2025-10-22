@@ -1,7 +1,0 @@
-{
-    "currency": "PLN",
-    "studentDiscount": true,
-    "price": 2,
-    "distance": 3.453,
-    "transportMethods": ["bus", "tram", "uber"]
-}
