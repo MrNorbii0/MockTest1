@@ -17,3 +17,5 @@ Krakowska sieć tramwajowa ma budowę promienistą. Większość linii prowadzi 
 | orlowo | cos | przekosic | to |
 | nie | 2005 | to | nowy |
 | tony | hawk | tylko | ze |
+
+! [Tramwaj](MockTest1/tramwaj.jpg)
